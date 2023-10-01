@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nischaysuthar
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Web Development
+- 🌱 I'm interested in data science 
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
